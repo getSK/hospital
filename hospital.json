@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "name": "KIMS",
+      "patientCount": 300,
+      "location": "Trivandrum"
+    },
+    {
+      "id": 2,
+      "name": "Aster Medcity",
+      "patientCount": 95,
+      "location": "Eranakulam"
+    },
+    {
+      "id": 3,
+      "name": "Rajagiri Hospital",
+      "patientCount": 280,
+      "location": "Kochi"
+    },
+    {
+      "id": 4,
+      "name": " Apollo Adlux Hospital",
+      "patientCount": 170,
+      "location": " Aluva"
+    },
+    {
+      "id": 5,
+      "name": "Caritas Multispeciality Hospital",
+      "patientCount": 70,
+      "location": "Kottayam"
+    }
+  ]
